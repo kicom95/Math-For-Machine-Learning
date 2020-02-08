@@ -12,7 +12,5 @@
 
 # MOOC
  * [Mathematics for Machine Learning Specialization On Cousera Course](https://www.coursera.org/specializations/mathematics-machine-learning)
-   * [Linear Algebra](https://www.youtube.com/channel/UCDf3VLjM5A4MntJvCfls4sQ) 
-   * [Multivariate Calculus]
-   * [PCA]
+   * [Youtube Channel](https://www.youtube.com/channel/UCDf3VLjM5A4MntJvCfls4sQ)
 # Blog
