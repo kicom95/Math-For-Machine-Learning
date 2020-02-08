@@ -13,8 +13,8 @@
    * [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
    * [확률및 통계](http://www.kocw.net/home/search/kemView.do?kemId=1056974)
 
-# Web Article & Links
-### 영어
+# Web Articles & Links
+### English
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 * [Matrix Calculus for Deep Learning](https://explained.ai/matrix-calculus/index.html)
 * [Seeing Theory - A visual introduction to Probability and Statistics](https://seeing-theory.brown.edu/#firstPage)
