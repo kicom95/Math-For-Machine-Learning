@@ -6,5 +6,13 @@
  * [인공지능을 위한 기초수학 - 이상구 교수](http://matrix.skku.ac.kr/math4ai/Math4AI.pdf)
 
 # Online Video Lecture
+### English Lecture
+ * [Math Essential for Machine Learning on Youtube](https://www.youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)
+### Korean Lecture
 
+# MOOC
+ * [Mathematics for Machine Learning Specialization On Cousera Course](https://www.coursera.org/specializations/mathematics-machine-learning)
+   * [Linear Algebra](https://www.youtube.com/channel/UCDf3VLjM5A4MntJvCfls4sQ) 
+   * [Multivariate Calculus]
+   * [PCA]
 # Blog
