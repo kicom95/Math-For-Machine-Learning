@@ -20,3 +20,4 @@
 * [Seeing Theory - A visual introduction to Probability and Statistics](https://seeing-theory.brown.edu/#firstPage)
 ### 한국어
 * [다크 프로그래머 : 수학이야기](https://darkpgmr.tistory.com/category/%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* [선형대수 Gilbert Strang 교수 강의 내용 정리](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)
