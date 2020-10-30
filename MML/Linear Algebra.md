@@ -11,7 +11,7 @@
         * Our(This Book's) Focus
         * Closure 
         * Vector Space
- * Concept of Linear Algebra
- * ![Concept of Linear Algebra (Page 19)](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/concept%20of%20linear%20algebra.JPG) 
+ * Concept of Linear Algebra (Page 19)
+ * ![Concept of Linear Algebra](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/concept%20of%20linear%20algebra.JPG) 
 
   
