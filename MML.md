@@ -12,12 +12,4 @@
    * (Page 13)
       * Represent data as vectors.
   ### 1.2 Two Ways to Read This Book
-## 2 Linear Algebra
- * (Page 17)
-   * Study of vectors and certain algebra rules to manipulate vectors.
-   * **Vector**
-     1. Geometric vectors - intuitions about direction and magnitude
-     1. Polynomials
-  
-
-  
+## 2 Linear Algebra[https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Linear%20Algebra.md]
