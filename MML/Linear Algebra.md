@@ -12,16 +12,16 @@
         * Closure 
         * Vector Space
  * Concept of Linear Algebra (Page 19)
- * ![Concept of Linear Algebra](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/concept%20of%20linear%20algebra.JPG) 
+ ![Concept of Linear Algebra](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/concept%20of%20linear%20algebra.JPG) 
 ### 2.1 Systems of Linear Equations (연립 일차 방정식)
  * **Readings**
    * [System of linear equations from Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations) 
      * General Form
-     * ![General Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/f50252ba5f1e440c6323e52462ebcd22d1aa7716)
+     ![General Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/f50252ba5f1e440c6323e52462ebcd22d1aa7716)
      * Vector Equation
-     * ![Vector Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/27012bec5c523ae61a7a760cbf383e2962ede481)
+     ![Vector Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/27012bec5c523ae61a7a760cbf383e2962ede481)
      * Matrix Equation
-     * ![Matrix Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/85b8cb94702eb575b664969060eb077ab8ac37a6)
+     ![Matrix Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/85b8cb94702eb575b664969060eb077ab8ac37a6)
  * (Page 20)
    * for a real-valued system of linear equations we obtain either *no*, *exactly one*, or *infinitely many* **solutions**.
 ### 2.2 Matrices
@@ -31,4 +31,5 @@
 #### 2.2.1 Matrix Addition and Multiplication
  * (Page 23)
    * dot product of the corresponding row and column
+   * Hadamard product : element-wise multiplication
    * Indentity Matrix
