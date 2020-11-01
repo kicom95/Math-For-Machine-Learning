@@ -16,6 +16,19 @@
 ### 2.1 Systems of Linear Equations (연립 일차 방정식)
  * **Readings**
    * [System of linear equations from Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations) 
-     * [in Korean](https://ko.wikipedia.org/wiki/%EC%97%B0%EB%A6%BD_%EC%9D%BC%EC%B0%A8_%EB%B0%A9%EC%A0%95%EC%8B%9D)
- * (Page 10)
-   * for a real-valued system of linear equations we obtain either *no*, *exactly one*, or *infinitely many* solutions.
+     * General Form
+     * ![General Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/f50252ba5f1e440c6323e52462ebcd22d1aa7716)
+     * Vector Equation
+     * ![Vector Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/27012bec5c523ae61a7a760cbf383e2962ede481)
+     * Matrix Equation
+     * ![Matrix Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/85b8cb94702eb575b664969060eb077ab8ac37a6)
+ * (Page 20)
+   * for a real-valued system of linear equations we obtain either *no*, *exactly one*, or *infinitely many* **solutions**.
+### 2.2 Matrices
+ * (Page 22)
+   * Compactly represent systems of linear equations.
+   * Represent linear functions (linear mappings)
+#### 2.2.1 Matrix Addition and Multiplication
+ * (Page 23)
+   * dot product of the corresponding row and column
+   * Indentity Matrix
