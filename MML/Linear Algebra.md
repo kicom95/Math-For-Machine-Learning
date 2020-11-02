@@ -30,6 +30,10 @@
    * Represent linear functions (linear mappings)
 #### 2.2.1 Matrix Addition and Multiplication
  * (Page 23)
-   * dot product of the corresponding row and column
+   * [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+     * dot product of the corresponding row and column
+     * Fundamental applications
+       * Linear Map
+       * System of linear equations
    * Hadamard product : element-wise multiplication
    * Indentity Matrix
