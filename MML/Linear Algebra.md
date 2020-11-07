@@ -12,7 +12,7 @@
         * Closure 
         * Vector Space
  * Concept of Linear Algebra (Page 19)
- ![Concept of Linear Algebra](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/concept%20of%20linear%20algebra.JPG) 
+ ![Concept of Linear Algebra](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/concept%20of%20linear%20algebra.JPG) 
 ### 2.1 Systems of Linear Equations (연립 일차 방정식)
  * **Readings**
    * [System of linear equations from Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations) 
@@ -51,4 +51,6 @@
    * Symmetric Matrix
      * Transpose(A) == A
      * Square Matrix Only
+ ![Inverse Transpose Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inverse%20transpose%20matrix.JPG) 
+     
 ### 2.2.3 Multiplication by a Scalar
