@@ -56,3 +56,6 @@
      
 #### 2.2.3 Multiplication by a Scalar
 #### 2.2.4 Compact Representations of Systems of Linear Equations
+ * (Page 26)
+![Linear Equation in Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/compact_representation_of_linear_equation.png) 
+ 
