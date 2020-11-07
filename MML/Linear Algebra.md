@@ -37,7 +37,7 @@
        * System of linear equations
    * Hadamard product : element-wise multiplication
    * Indentity Matrix
-### 2.2.2 Inverse and Transpose
+#### 2.2.2 Inverse and Transpose
  * (Page 24)
    * Inverse
      * Square Matrix Only
@@ -54,4 +54,5 @@
      
 ![Inverse Transpose Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inverse%20transpose%20matrix.JPG) 
      
-### 2.2.3 Multiplication by a Scalar
+#### 2.2.3 Multiplication by a Scalar
+#### 2.2.4 Compact Representations of Systems of Linear Equations
