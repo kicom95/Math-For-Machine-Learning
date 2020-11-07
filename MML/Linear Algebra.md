@@ -37,3 +37,18 @@
        * System of linear equations
    * Hadamard product : element-wise multiplication
    * Indentity Matrix
+### 2.2.2 Inverse and Transpose
+ * (Page 24)
+   * Inverse
+     * Square Matrix Only
+     * regular/invertible/nonsingular
+       * Inverse Exist
+       * When the matrix inverse exists, it is **unique**
+     * singular/noninvertible
+       * No Inverse Exist
+     * determinant - checks whether a matrix is invertible.  
+ * (Page 25)
+   * Symmetric Matrix
+     * Transpose(A) == A
+     * Square Matrix Only
+### 2.2.3 Multiplication by a Scalar
