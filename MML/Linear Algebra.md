@@ -51,6 +51,7 @@
    * Symmetric Matrix
      * Transpose(A) == A
      * Square Matrix Only
- ![Inverse Transpose Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inverse%20transpose%20matrix.JPG) 
+     
+![Inverse Transpose Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inverse%20transpose%20matrix.JPG) 
      
 ### 2.2.3 Multiplication by a Scalar
