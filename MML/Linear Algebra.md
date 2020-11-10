@@ -50,22 +50,19 @@
  * (Page 25)
    * Symmetric Matrix
      * Transpose(A) == A
-     * Square Matrix Only
-     
+     * Square Matrix Only    
 ![Inverse Transpose Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inverse%20transpose%20matrix.JPG) 
-     
 #### 2.2.3 Multiplication by a Scalar
 #### 2.2.4 Compact Representations of Systems of Linear Equations
  * (Page 26)
-![Linear Equation in Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/compact_representation_of_linear_equation.png) 
- 
+ ![Linear Equation in Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/compact_representation_of_linear_equation.png) 
 ### 2.3 Solving Systems of Linear Equations
  * (Page 27)
    * Matrices can be used as a compact way of formulating systems of linear equations
 ### 2.3.1 Solving Systems of Linear Equations
  * (Page 27)
-  * Particular (Special) Solution
-  * General Solution
-  * Combination of Particular Solution and General Solution
+   * Particular (Special) Solution
+   * General Solution
+   * Combination of Particular Solution and General Solution
   
    
