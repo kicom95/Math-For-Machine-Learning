@@ -59,3 +59,13 @@
  * (Page 26)
 ![Linear Equation in Matrix](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/compact_representation_of_linear_equation.png) 
  
+### 2.3 Solving Systems of Linear Equations
+ * (Page 27)
+   * Matrices can be used as a compact way of formulating systems of linear equations
+### 2.3.1 Solving Systems of Linear Equations
+ * (Page 27)
+  * Particular (Special) Solution
+  * General Solution
+  * Combination of Particular Solution and General Solution
+  
+   
