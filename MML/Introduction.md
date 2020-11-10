@@ -1,4 +1,5 @@
-   * (Page 11)
+  ## 1 Introduction and Motivation
+  * (Page 11)
      * Mathematical foundations of machine learning are important in order to understand fundamental principles upon which more complicated machine learning systems are built.
   ### 1.1 Finding Words for Intuitions
    * (Page 12)
