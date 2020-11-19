@@ -67,6 +67,11 @@
    * Combination of Particular Solution and General Solution
 ### 2.3.2 Elementary Transformations  
 * (Page 29)   
-  * Exchange of two equations (rows in the matrix representing the system of equations
-  * Multiplication of an equation (row) with a constant 
-  * Addition of two equations (rows)
+  * [Elementary Transformations](https://en.wikipedia.org/wiki/Elementary_matrix#Operations)
+    * Exchange of two equations (rows in the matrix representing the system of equations
+    * Multiplication of an equation (row) with a constant 
+    * Addition of two equations (rows)
+  * [Augmented matrix](https://en.wikipedia.org/wiki/Augmented_matrix)  
+    * A matrix obtained by appending the columns of two given matrices, usually for the purpose of performing the same elementary row operations 
+    * The augmented matrix compactly represents the system of linear equations
+* (Page 30)
