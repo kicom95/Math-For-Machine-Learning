@@ -75,3 +75,17 @@
     * A matrix obtained by appending the columns of two given matrices, usually for the purpose of performing the same elementary row operations 
     * The augmented matrix compactly represents the system of linear equations
 * (Page 30)
+  * [Row-Echelon Form](https://en.wikipedia.org/wiki/Row_echelon_form)
+    * A matrix is in echelon form if it has the shape resulting from a Gaussian elimination
+    * All rows consisting of only zeroes are at the bottom.
+    * The leading coefficient (also called the *pivot*) of a nonzero row is always strictly to the right of the leading coefficient of the row above it.
+    * ![Row-Echelon Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/3743aca294b2e5346c167819fd9ee0bcb79ef22c)
+      * Basic Variables - variables corresponding to the pivots in the row-echelon
+        * x1, x3, x4
+      * Free Variables  - other than basic variable
+        * x2, x5
+* (Page 31)
+  * Reduced Row Echelon Form
+    * It is in row-echelon form.
+    * Every pivot is 1.
+    * The pivot is the only nonzero entry in its column.
