@@ -89,3 +89,16 @@
     * It is in row-echelon form.
     * Every pivot is 1.
     * The pivot is the only nonzero entry in its column.
+* (Page 32)
+  * Gaussian elimination
+  * Gauss–Jordan elimination
+    *  finding the inverse of a matrix (Square Matrix Only)
+### 2.3.4 Algorithms for Solving a System of Linear Equations
+* (Page 34)
+  * Solution Exist
+    * Inverse : Square Matrix Only
+    * Moore-Penrose pseudo-inverse
+   
+![Moore-Penrose pseudo-inverse](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Moore-Penrose%20pseudo-inverse.JPG)
+  * Solution does Not Exist
+    * approximate solutions : Linear Regression
