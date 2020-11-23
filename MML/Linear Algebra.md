@@ -105,7 +105,10 @@
 
 ## 2.4 Vector Spaces
 * (Page 35)
- * structured space in which vectors live.
+  * structured space in which vectors live.
 ### 2.4.1 Group
+* **Readings**
+  * [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
+    *  a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility. 
 
  
