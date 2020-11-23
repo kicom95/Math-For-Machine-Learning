@@ -95,10 +95,17 @@
     *  finding the inverse of a matrix (Square Matrix Only)
 ### 2.3.4 Algorithms for Solving a System of Linear Equations
 * (Page 34)
+  * Solution does Not Exist
+    * approximate solutions : Linear Regression
   * Solution Exist
     * Inverse : Square Matrix Only
     * Moore-Penrose pseudo-inverse
    
 ![Moore-Penrose pseudo-inverse](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Moore-Penrose%20pseudo-inverse.JPG)
-  * Solution does Not Exist
-    * approximate solutions : Linear Regression
+
+## 2.4 Vector Spaces
+* (Page 35)
+ * structured space in which vectors live.
+### 2.4.1 Group
+
+ 
