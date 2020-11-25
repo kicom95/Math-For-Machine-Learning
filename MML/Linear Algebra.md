@@ -131,5 +131,9 @@
     * Neutral element is *zero vector*
     * Examples
       * R^N
+        * R^(Nx1) : column vector = *x*
+        * R^(1xN) : row vector = *x^T* , transpose of x
       * R^(NxN)
+
+### 2.4.3 Vector Subspaces
  
