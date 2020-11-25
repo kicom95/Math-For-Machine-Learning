@@ -110,5 +110,26 @@
 * **Readings**
   * [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
     *  a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility. 
-
+* (Page 36)
+  * closure
+  * associativity
+  * neutral element
+  * inverse element 
+  * commutative - **Abelian group**
+* (Page 37)
+  * Example
+    * the set of m x n-matrices is Abelian (with componentwise addition )
+    * the set of **regular** (*invertible*) n x n-matrices with matrix multiplication - **General Linear Group**
+      * Indenity matrix
+    
+### 2.4.2 Vector Space
+* (Page 38)
+  * A vector space (also called a linear space) is a collection of objects called vectors, which may be added together and multiplied ("scaled") by numbers, called scalars defined in [Wikipedia](https://en.wikipedia.org/wiki/Vector_space).
+    * vector addition
+    * scalar multiplication or multiplication by scalars.
+    * Elements of V are commonly called **vectors**
+    * Neutral element is *zero vector*
+    * Examples
+      * R^N
+      * R^(NxN)
  
