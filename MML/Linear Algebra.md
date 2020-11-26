@@ -30,7 +30,7 @@
    * Represent linear functions (linear mappings)
 #### 2.2.1 Matrix Addition and Multiplication
  * (Page 23)
-   * [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+    * [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
      * dot product of the corresponding row and column
      * Fundamental applications
        * Linear Map
@@ -127,7 +127,7 @@
   * A vector space (also called a linear space) is a collection of objects called vectors, which may be added together and multiplied ("scaled") by numbers, called scalars defined in [Wikipedia](https://en.wikipedia.org/wiki/Vector_space).
     * vector addition
     * scalar multiplication or multiplication by scalars.
-    * Elements of V are commonly called **vectors**
+    * Elemens of V are commonly called **vectors**
     * Neutral element is *zero vector*
     * Examples
       * R^N
@@ -136,12 +136,14 @@
       * R^(NxN)
 
 ### 2.4.3 Vector Subspaces
- * (Page 39)
+* [Linear Subspace](https://en.wikipedia.org/wiki/Linear_subspace)
+* (Page 39)
    * [Homogeneous systems](https://en.wikipedia.org/wiki/System_of_linear_equations#Homogeneous_systems)
      * Ax = 0
      * at least one solution, known as the zero
      * singular matrix --> an infinite number of solutions.
      * subspace of R^n
    * Inhomogeneous systems  
+     * Ax = b & b is not zero
      * **Not** subspace of R^n
 
