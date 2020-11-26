@@ -136,4 +136,12 @@
       * R^(NxN)
 
 ### 2.4.3 Vector Subspaces
- 
+ * (Page 39)
+   * [Homogeneous systems](https://en.wikipedia.org/wiki/System_of_linear_equations#Homogeneous_systems)
+     * Ax = 0
+     * at least one solution, known as the zero
+     * singular matrix --> an infinite number of solutions.
+     * subspace of R^n
+   * Inhomogeneous systems  
+     * **Not** subspace of R^n
+
