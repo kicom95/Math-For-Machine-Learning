@@ -156,3 +156,5 @@
   * Linearly Independent
     * if no vector in the set can be written in this way, then the vectors are said to be linearly independent.
     * a set of linearly independent vectors consists of vectors that have no redundancy,
+* (Page 41)
+ * 
