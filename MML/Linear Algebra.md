@@ -146,4 +146,13 @@
    * Inhomogeneous systems  
      * Ax = b & b is not zero
      * **Not** subspace of R^n
-
+## 2.5 Linear Independence
+* (Page 40)
+  *  **Basis** - a set of vectors with which we can represent every vector  in the vector space by adding them together and scaling them. 
+  * Linear Combination
+    * ![Linear Combination](https://wikimedia.org/api/rest_v1/media/math/render/svg/0a701e9b8de6ac82da0fe68b425b44688d1d0b97)
+  * Linearly Dependent
+    * if at least one of the vectors in the set can be defined as a linear combination of the others
+  * Linearly Independent
+    * if no vector in the set can be written in this way, then the vectors are said to be linearly independent.
+    * a set of linearly independent vectors consists of vectors that have no redundancy,
