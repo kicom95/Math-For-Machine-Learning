@@ -156,5 +156,9 @@
   * Linearly Independent
     * if no vector in the set can be written in this way, then the vectors are said to be linearly independent.
     * a set of linearly independent vectors consists of vectors that have no redundancy,
+    * ![Definition](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Linear%20Independce.JPG)
 * (Page 41)
- * 
+  * A practical way of checking whether vectors are linearly independent is to use Gaussian elimination
+    * All column vectors are linearly independent if and only if all columns are pivot columns.
+    
+## 2.6 Basis and Rank
