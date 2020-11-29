@@ -162,3 +162,11 @@
     * All column vectors are linearly independent if and only if all columns are pivot columns.
     
 ## 2.6 Basis and Rank
+### 2.6.1 Generating Set and Basis
+* (Page 44)
+  * **Generating sets** are sets of vectors that **span** vector (sub)spaces, i.e., every vector can be represented as a linear combination of the vectors in the generating set
+  * **Basis** - A generating set A of V is called *minimal* if there exists no smaller set that spans V
+* (Page 45)  
+  * A basis is a minimal generating set and a maximal linearly independent set of vectors.
+  * A vector space can have several bases; however all the bases have the same number of elements, called the **dimension** of the vector space
+  
