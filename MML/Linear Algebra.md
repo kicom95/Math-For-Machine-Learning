@@ -171,10 +171,11 @@
   * A vector space can have several bases; however all the bases have the same number of elements, called the **dimension** of the vector space
   * *Canonical (Standard)* Basis
 * (Page 46)
-  * The dimension of a vector space corresponds to the number of its basis vectors.
+  * The dimension of a vector space corresponds to the number of its basis vectors.)
 ### 2.6.2 Rank
  * (Page 47)
    * The number of linearly independent columns of a matrix equals the number of linearly independent rows
    * Dimension of the vector space generated (or spanned) by its columns.
    * **Kernel / null space**
+     * [Youtube Video](https://www.youtube.com/watch?v=C8zOd07U3l8&feature=emb_title)
    * Full rank
