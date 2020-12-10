@@ -179,3 +179,18 @@
    * **Kernel / null space**
      * [Youtube Video](https://www.youtube.com/watch?v=C8zOd07U3l8&feature=emb_title)
    * Full rank
+## 2.7 Linear Mapping
+* (Page 48)
+  * Linear Transformation
+  ![Linear Mapping](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Linear%20Mapping.PNG)
+  * Injective means we won't have two or more "A"s pointing to the same "B".
+    * every element in W can be “reached” from V using linear mapping
+    * can be undone
+  * Surjective means that every "B" has at least one matching "A" (maybe more than one).
+  * Bijective if it is injective and surjective.
+* (Page 49)
+  * Isomorphism:  : V ! W linear and bijective
+  * Endomorphism:  : V ! V linear 
+  * Automorphism:  : V ! V linear and bijective
+   * idV : V => V , x -> x as the identity mapping or identity identity mapping identity automorphism in V .
+
