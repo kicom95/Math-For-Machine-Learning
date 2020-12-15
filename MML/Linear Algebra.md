@@ -198,4 +198,15 @@
    * idV : V => V , x -> x as the *identity mapping* or *identity automorphism* in V .
   * Finite-dimensional vector spaces V and W are isomorphic if and only if dim(V) = dim(W)
     * Vector spaces of the same dimension are kind of the same thing
-
+### 2.7.1 Matrix Representation of Linear Mappings
+* (Page 50)
+  * *Ordered Basis* B = (b1,... ,bn)
+  * *Basis* B = {b1,...bn}
+  * *Matrix* whose columns are vector B = [b1,...bn]
+  * ![Coordinates](https://wikimedia.org/api/rest_v1/media/math/render/svg/32cc5a63ea7975bde5782353e609b30a36988678)
+    * ![Coordinates](https://wikimedia.org/api/rest_v1/media/math/render/svg/a896f82d292f2489a979c7a2c7a52561df77dd4d) **Coordinates** with respect to Ordered Basis B
+    * coordinate vectors
+* (Page 51)
+  * Any basis of R^2 defines a valid coordinate system, and the same vector x from before may have a different coordinate representation in the (b1, b2) basis.
+  * Transformation Matrix
+  
