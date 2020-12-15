@@ -191,12 +191,13 @@
     * onto, 전사 함수
     * function whose image is equal to its codomain.
   * Bijective if it is injective and surjective.
+    * *Have Inverse*
 * (Page 49)
   * Isomorphism: V -> W linear and bijective
   * Endomorphism: V -> V linear 
   * Automorphism: V -> W linear and bijective
    * idV : V => V , x -> x as the *identity mapping* or *identity automorphism* in V .
-  * Finite-dimensional vector spaces V and W are isomorphic if and only if dim(V) = dim(W)
+  * Finite-dimensional vector spaces V and W are **isomorphic if and only if dim(V) = dim(W)**
     * Vector spaces of the same dimension are kind of the same thing
 ### 2.7.1 Matrix Representation of Linear Mappings
 * (Page 50)
