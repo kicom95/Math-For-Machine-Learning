@@ -183,14 +183,19 @@
 * (Page 48)
   * Linear Transformation
   ![Linear Mapping](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Linear%20Mapping.PNG)
-  * Injective means we won't have two or more "A"s pointing to the same "B".
+  * Injective means we won't have two or more "A"s pointing to the same "B". 
+    * one-to-one function, 일대일 함수
     * every element in W can be “reached” from V using linear mapping
     * can be undone
   * Surjective means that every "B" has at least one matching "A" (maybe more than one).
+    * onto, 전사 함수
+    * function whose image is equal to its codomain.
   * Bijective if it is injective and surjective.
 * (Page 49)
-  * Isomorphism:  : V ! W linear and bijective
-  * Endomorphism:  : V ! V linear 
-  * Automorphism:  : V ! V linear and bijective
-   * idV : V => V , x -> x as the identity mapping or identity identity mapping identity automorphism in V .
+  * Isomorphism: V -> W linear and bijective
+  * Endomorphism: V -> V linear 
+  * Automorphism: V -> W linear and bijective
+   * idV : V => V , x -> x as the *identity mapping* or *identity automorphism* in V .
+  * Finite-dimensional vector spaces V and W are isomorphic if and only if dim(V) = dim(W)
+    * Vector spaces of the same dimension are kind of the same thing
 
