@@ -1,6 +1,9 @@
 ## 3. Analytic Geometry
 * (Page 70)
   * Inner products and their corresponding norms and metrics capture the intuitive notions of *similarity* and *distances*
+  * Concept of Analytic Geometry (Page 70)
+ ![Concept of Analytic Geometry](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/Concept%20of%20Analytic%20Geometry.PNG) 
+
 ### 3.1 Norms
 * (Page 71)
   * a norm is a function from a real or complex vector space to the nonnegative real numbers that behaves in certain ways like the distance from the origin.
