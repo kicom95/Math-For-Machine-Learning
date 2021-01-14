@@ -13,3 +13,14 @@
     * ![Manhatan Norm](https://wikimedia.org/api/rest_v1/media/math/render/svg/6909908a18e848414a32a6310c5c7fed3f18e7b6)
   * Euclidean Norm (L2 Norm)
     * ![Euclidean Norm](https://wikimedia.org/api/rest_v1/media/math/render/svg/4d2562bd8e6df0c2625fd9c0e0c09ee9b932785d)
+    
+### 3.2 Inner Product
+#### 3.2.1 Dot Product
+ * (Page 72)
+   * Dot/Scalar prodct is a kind of inner prodcut but inner products are more general concept
+     * ![Inner Product](https://wikimedia.org/api/rest_v1/media/math/render/svg/5bd0b488ad92250b4e7c2f8ac92f700f8aefddd5)
+#### 3.2.2 General Inner Product
+ * (Page 73)
+   * *Inner Product* - A positive definite, symmetric bilinear mapping that takes two vectors and maps them onto a real number
+   * *Inner Product Space* (or vectors space with innner product )
+     * dot prodcut is *Euclidean vector space*
