@@ -24,3 +24,11 @@
    * *Inner Product* - A positive definite, symmetric bilinear mapping that takes two vectors and maps them onto a real number
    * *Inner Product Space* (or vectors space with innner product )
      * dot prodcut is *Euclidean vector space*
+#### 3.2.3 Symmetric, Positive Definite Matrices
+ * (Page 73)
+   * An n x n **symmetric** real matrix M is said to be positive-definite
+     * ![positive-definite](https://wikimedia.org/api/rest_v1/media/math/render/svg/4c7c64b7e5da9e0b4ae20e1890804507dc58f573)
+   * Inner Product
+     * ![inner product](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inner_product_positive-definite.PNG)  
+     * The null space of A consists only of 0
+     * The diagnoal elements of A are positive
