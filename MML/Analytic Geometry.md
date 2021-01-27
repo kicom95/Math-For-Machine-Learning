@@ -25,6 +25,8 @@
    * *Inner Product Space* (or vectors space with innner product )
      * dot prodcut is *Euclidean vector space*
 #### 3.2.3 Symmetric, Positive Definite Matrices
+ * Readings
+   * [What is a Positive Definite Matrix? and why does it matter?](https://towardsdatascience.com/what-is-a-positive-definite-matrix-181e24085abd)
  * (Page 73)
    * An n x n **symmetric** real matrix M is said to be positive-definite
      * ![positive-definite](https://wikimedia.org/api/rest_v1/media/math/render/svg/4c7c64b7e5da9e0b4ae20e1890804507dc58f573)
