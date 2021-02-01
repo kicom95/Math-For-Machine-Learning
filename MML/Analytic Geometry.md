@@ -35,3 +35,10 @@
      * ![inner product](https://github.com/kicom95/Math-For-Machine-Learning/blob/master/MML/Images/inner_product_positive-definite.PNG)  
      * The null space of A consists only of 0
      * The diagnoal elements of A are positive
+### 3.3 Lengths and Distances
+ * (Page 75)
+   * Inner products and norms are closely related --> Compute lengths of vectors using the inner product.
+     * ![Norm](https://wikimedia.org/api/rest_v1/media/math/render/svg/006a72ecc9251a7abcbab8a3cde58e2cdf380d0f)
+   * Cauchy-Schwarz inequality
+     * all vectors u and v of an inner product space it is true that
+       * ![Cauchy-Schwarz inequality](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c81e6848c4c86715dcd5dc2f87e80380130952a) 
