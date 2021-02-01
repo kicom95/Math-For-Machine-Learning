@@ -42,3 +42,12 @@
    * Cauchy-Schwarz inequality
      * all vectors u and v of an inner product space it is true that
        * ![Cauchy-Schwarz inequality](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c81e6848c4c86715dcd5dc2f87e80380130952a) 
+   * Distance and Metrics
+     * Euclidean distance
+ * (Page 76)
+   * Metric satisfy the following
+     * positive definite
+     * symmetric
+     * triangle inequlaity
+     
+   * Very similar and will result in *a large value for the inner product* and *a small value for the metric*
