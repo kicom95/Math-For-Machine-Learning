@@ -50,4 +50,4 @@
      * symmetric
      * triangle inequlaity
      
-   * Very similar and will result in *a large value for the inner product* and *a small value for the metric*
+   * Very similar X and Y will result in *a large value for the inner product* and *a small value for the metric*
