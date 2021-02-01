@@ -42,6 +42,9 @@
    * Cauchy-Schwarz inequality
      * all vectors u and v of an inner product space it is true that
        * ![Cauchy-Schwarz inequality](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c81e6848c4c86715dcd5dc2f87e80380130952a) 
+       * ![Cauchy-Schwarz inequality](https://wikimedia.org/api/rest_v1/media/math/render/svg/20fc93b5fc6a8daabba521a50ac1a71b3d90e3a7) 
+       * ![Cauchy-Schwarz inequality](https://wikimedia.org/api/rest_v1/media/math/render/svg/21527b6a63eae4cc3d98721c2f096e7f30c51e9d) 
+       
    * Distance and Metrics
      * Euclidean distance
  * (Page 76)
