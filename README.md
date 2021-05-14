@@ -1,4 +1,4 @@
-# Book
+## Book
  ### Written in English
  * [Mathematics for Machine Learning  by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
    * [Jung's Study Note & Summary](https://github.com/kicom95/Math-For-Machine-Learning/tree/master/MML)
@@ -6,15 +6,17 @@
  * [김도형의 데이터 사이언스 스쿨 - 수학 편](https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/)
  * [인공지능을 위한 기초수학 - 이상구 교수](http://matrix.skku.ac.kr/math4ai/Math4AI.pdf)
 
-# Online Video Lecture
+## Online Video Lecture
 ### English Lecture
- * [Math Essential for Machine Learning on Youtube](https://www.youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)
-### 한국어 강좌
+ * [3Blue1Brown](https://www.3blue1brown.com/)
+   * [Youtube Channel](https://www.youtube.com/c/3blue1brown) 
+   
+### Korean
  * 이상화 교수 강좌
    * [선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
    * [확률및 통계](http://www.kocw.net/home/search/kemView.do?kemId=1056974)
 
-# Web Articles & Links
+## Misc
 ### English
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 * [Matrix Calculus for Deep Learning](https://explained.ai/matrix-calculus/index.html)
