@@ -25,3 +25,4 @@
 ### 한국어
 * [다크 프로그래머 : 수학이야기](https://darkpgmr.tistory.com/category/%EC%88%98%ED%95%99%20%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [선형대수 Gilbert Strang 교수 강의 내용 정리](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)
+* [딥러닝 입문 & 수학정리](https://doooob.tistory.com/category/AI%20%C2%B7%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EB%94%A5%EB%9F%AC%EB%8B%9D%20Tutorial)
