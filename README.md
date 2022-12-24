@@ -1,8 +1,10 @@
 ## Book
  ### Written in English
  * [Mathematics for Machine Learning  by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
-   * [Summary in Korean](http://savanna.korea.ac.kr/wp/?page_id=605) 
-   * [Jung's Study Note & Summary](https://github.com/kicom95/Math-For-Machine-Learning/tree/master/MML)
+   * 한국어 정리
+     * [고려대 공급사슬 및 가치망 분석 연구실](http://savanna.korea.ac.kr/wp/?page_id=605)
+     * [별준코딩](https://junstar92.github.io/mml-study-note/)
+     * [내가 공부하면서 정리 - 포기 ㅠ.ㅠ](https://github.com/kicom95/Math-For-Machine-Learning/tree/master/MML)
  ### 한글 책
  * [김도형의 데이터 사이언스 스쿨 - 수학 편](https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/)
  * [인공지능을 위한 기초수학 - 이상구 교수](http://matrix.skku.ac.kr/math4ai/Math4AI.pdf)
